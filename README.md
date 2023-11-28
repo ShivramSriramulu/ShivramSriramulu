@@ -66,39 +66,11 @@ I am a San Jose-based data enthusiast with a strong background in Data analysis 
 - Glue
 - Bigquery
   
-
-  
-
-## Projects
-
-### [Project 1: Project Name]
-
-[Project description and purpose. Highlight your role, the tools/technologies used, and the impact of the project.]
-
-**GitHub Repository:** [Link to the GitHub repository]
-
-### [Project 2: Project Name]
-
-[Project description and purpose. Highlight your role, the tools/technologies used, and the impact of the project.]
-
-**GitHub Repository:** [Link to the GitHub repository]
-
-### [Project 3: Project Name]
-
-[Project description and purpose. Highlight your role, the tools/technologies used, and the impact of the project.]
-
-**GitHub Repository:** [Link to the GitHub repository]
-
-## Education
-
-- **[Degree Earned], [University Name], [Year of Graduation]**
-  - Relevant coursework: [List relevant courses]
-
 ## Contact
 
 Feel free to reach out to me! I am open to collaboration and eager to discuss data-related opportunities.
 
-- **shivramsriamulu01@gmail.com**
+- **Email**:** shivramsriamulu01@gmail.com**
 - **LinkedIn:** [Shivram Sriramulu](https://www.linkedin.com/in/shivram-sriramulu-86a9b1264/)
 
 
