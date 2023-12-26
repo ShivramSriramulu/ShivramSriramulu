@@ -29,6 +29,7 @@ I am a San Jose-based data enthusiast with a strong background in Data Analysis 
 - Snowflake
 - DBT
 - Fivetran
+- Spark
     
 ### Programming
 - Python
@@ -57,6 +58,7 @@ I am a San Jose-based data enthusiast with a strong background in Data Analysis 
 - MongoDB
 - Neo4j
 - Elasticsearch
+- PostgreSQL
 
 ### Cloud Platforms
 - AWS
@@ -67,16 +69,22 @@ I am a San Jose-based data enthusiast with a strong background in Data Analysis 
 - GCP
   - BigQuery
   
-<!-- ## Projects
+## Projects
 
-### [Project 1: Project Name]
+### [Project 1: PySpark Coindesk API to MySQL ETL]
 
-- **Description:** Brief description of the project.
-- **Role:** Your role in the project.
-- **Tools/Technologies:** List of tools and technologies used.
-- **Impact:** The impact or result of the project.
+- **Description:** This project demonstrates a PySpark script for fetching data from the Coindesk API and loading it into a MySQL database. The script utilizes PySpark to create a DataFrame from the API response and then writes the data to a MySQL table.
 
-**GitHub Repository:** [Link to the GitHub repository]
+- **Role:** Sole developer and maintainer.
+
+- **Tools/Technologies:**
+  - Apache Spark
+  - MySQL
+  - Python
+
+- **Impact:** The project provides a simple example of using PySpark for ETL purposes, enabling the extraction and loading of cryptocurrency data from the Coindesk API into a MySQL database.
+
+**GitHub Repository:** [Link to the GitHub repository](https://github.com/ShivramSriramulu/SPARK-ETL-API)
 
 ### [Project 2: Project Name]
 
