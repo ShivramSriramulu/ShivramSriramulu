@@ -113,10 +113,16 @@ I am a San Jose-based data enthusiast with a strong background in Data Analysis 
 
 **GitHub Repository:** [Link to the GitHub repository] -->
 
-<!-- ## Education
+## Education
 
-- **[Degree Earned], [University Name], [Year of Graduation]**
-  - Relevant coursework: [List relevant courses] -->
+- **Master's in Data Analytics**
+  - **San Jose State University**
+  - **Year of Graduation: 2025**
+  - **Relevant Coursework:**
+    - Database Management Systems (DBMS)
+    - Mathematics
+    - Data Visualizations
+
 
 ## Contact
 
