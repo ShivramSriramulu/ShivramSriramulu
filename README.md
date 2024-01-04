@@ -86,14 +86,23 @@ I am a San Jose-based data enthusiast with a strong background in Data Analysis 
 
 **GitHub Repository:** [Link to the GitHub repository](https://github.com/ShivramSriramulu/SPARK-ETL-API)
 
-### [Project 2: Project Name]
+### [Project 2: Data Engineering with PySpark and Airflow]
 
-- **Description:** Brief description of the project.
-- **Role:** Your role in the project.
-- **Tools/Technologies:** List of tools and technologies used.
-- **Impact:** The impact or result of the project.
+- **Description:** This project focuses on building a robust data engineering pipeline leveraging PySpark and Apache Airflow. It encompasses data extraction, transformation, and loading (ETL) processes to enhance data processing efficiency and automate daily tasks. The dataset, comprising ride-sharing information, is processed and transformed using PySpark, with scheduled tasks managed by Apache Airflow.
 
-**GitHub Repository:** [Link to the GitHub repository]
+- **Role:** As the primary contributor, I played a pivotal role in designing, implementing, and maintaining the entire ETL pipeline. This involved optimizing PySpark transformations, orchestrating workflows with Apache Airflow, and ensuring seamless data integration.
+
+- **Tools/Technologies:** 
+  - **PySpark:** Used for efficient data processing and transformation tasks.
+  - **Apache Airflow:** Orchestrated and scheduled ETL tasks, providing flexibility and reliability.
+  - **Docker:** Containerized the pipeline components for consistent deployment.
+  - **Git/GitHub:** Version control for collaborative development and project management.
+
+- **Impact:** The project significantly improved data processing efficiency, enabling timely insights and informed decision-making. The dataset, comprising ride-sharing information, was successfully processed and transformed using PySpark. Scheduled daily ETL jobs streamlined repetitive tasks, enhancing automation and reducing manual intervention. The adoption of containerization facilitated easy setup and deployment, contributing to a more efficient and maintainable data engineering workflow.
+
+**Dataset:** The dataset includes ride-sharing information with details such as ride_id, rideable_type, start and end timestamps, station information, geographical coordinates, and member type.
+
+**GitHub Repository:** [Link to the GitHub repository](https://github.com/ShivramSriramulu/Airflow-Spark)
 
 ### [Project 3: Project Name]
 
