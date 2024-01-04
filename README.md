@@ -6,7 +6,7 @@ Welcome to my GitHub repository! 👋 I am Shivram Sriramulu, a passionate data 
 - [About Me](#about-me)
 - [Skills](#skills)
  - [Projects](#projects)
-<!-- - [Education](#education) -->
+ - [Education](#education) 
 - [Contact](#contact)
 
 ## About Me
