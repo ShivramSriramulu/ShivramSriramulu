@@ -104,14 +104,22 @@ I am a San Jose-based data enthusiast with a strong background in Data Analysis 
 
 **GitHub Repository:** [Link to the GitHub repository](https://github.com/ShivramSriramulu/Airflow-Spark)
 
-### [Project 3: Project Name]
+### [Project 3: MLIB-Scala-Airflow_Spark]
 
-- **Description:** Brief description of the project.
-- **Role:** Your role in the project.
-- **Tools/Technologies:** List of tools and technologies used.
-- **Impact:** The impact or result of the project.
+- **Description:** This project orchestrates Spark jobs written in Python, Scala, and MLlib using Apache Airflow, all within a Dockerized environment. The DAG `sparking_flow` is designed to submit Spark jobs for linear regression using MLlib in Python and Scala, ensuring that data processing is handled efficiently and reliably on a daily schedule.
 
-**GitHub Repository:** [Link to the GitHub repository] -->
+- **Role:** Creator and contributor.
+
+- **Tools/Technologies:**
+  - Apache Airflow
+  - Apache Spark
+  - MLlib (Machine Learning library for Spark)
+  - Docker
+
+- **Impact:** The project facilitates the automation of Spark jobs, including linear regression using MLlib, across different programming languages. It enhances data processing capabilities in a scalable and maintainable way.
+
+**GitHub Repository:** [Link to the GitHub repository](https://github.com/ShivramSriramulu/MLIB-Scala-Airflow_Spark)
+
 
 ## Education
 
